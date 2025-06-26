@@ -2,7 +2,7 @@
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Public_Repositories-4-blue?style=flat-square">
-<img alt="Static Badge" src="https://img.shields.io/badge/Private_Repositories-2-red?style=flat-square">
+<img alt="Static Badge" src="https://img.shields.io/badge/Private_Repositories-4-red?style=flat-square">
 <img alt="Static Badge" src="https://img.shields.io/badge/Meaningful_Projects-1-green?style=flat-square">
 <img alt="Static Badge" src="https://img.shields.io/badge/WIP_Projects-2%2B-orange?style=flat-square">
 <img alt="Static Badge" src="https://img.shields.io/badge/Primary_Language-Python-purple?style=flat-square">
