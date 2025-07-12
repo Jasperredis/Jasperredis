@@ -24,12 +24,12 @@ https://jris.straw.page -- Main Website<br>
 ## My (Published) Projects
 ### ![LL](files/lifelinepy.png) Lifeline.py
 Lifeline.py is a retro-style endless game made in Pygame where you control a small white line on a bar. Your health depletes, and green spots (and red) randomly generate across it. Green heals you, red takes away even more health. The longer you survive, the higher your score ends up.  
-https://jasperredis.github.io/Lifeline.py
+https://jasperredis.github.io/Lifeline.py  
 https://github.com/Jasperredis/Lifeline.py
 
 ### Cerbose
-Cerbose is a simple, easy-to-use Python library for tagged, feature-rich terminal output that can be logged. It also includes additional features such as cerbar, an ASCII progress bar generator, and cin, a terminal user-input tool.
-https://jasperredis.github.io/cerbose
+Cerbose is a simple, easy-to-use Python library for tagged, feature-rich terminal output that can be logged. It also includes additional features such as cerbar, an ASCII progress bar generator, and cin, a terminal user-input tool.  
+https://jasperredis.github.io/cerbose  
 https://github.com/Jasperredis/cerbose-lib
 
 Unfortunately, that's all as of right now.
