@@ -3,7 +3,7 @@
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Public_Repositories-7-blue?style=flat-square">
 <img alt="Static Badge" src="https://img.shields.io/badge/Private_Repositories-3-red?style=flat-square">
-<img alt="Static Badge" src="https://img.shields.io/badge/Meaningful_Projects-1-green?style=flat-square">
+<img alt="Static Badge" src="https://img.shields.io/badge/Meaningful_Projects-2-green?style=flat-square">
 <img alt="Static Badge" src="https://img.shields.io/badge/WIP_Projects-2%2B-orange?style=flat-square">
 <img alt="Static Badge" src="https://img.shields.io/badge/Primary_Language-Python-purple?style=flat-square">
 <br>
@@ -36,10 +36,9 @@ Unfortunately, that's all as of right now.
 
 ### Currently Working On
 Ranked by my decided importance.
-1. Cerbose: A cross-platform Python library for fancy terminal output and several other features, using colorama for multiple features.
+1. Lifeline.PYR: A complete rewrite of Lifeline.py.
 2. Fishgame by jasperredis: A text adventure game in JS/CSS/HTML about a fish the player found on the ground.
-3. Lifeline.py v1.1-3: The final update to my game Lifeline.py.
-4. TrivialFrog: A program that when installed, randomly gives popups to the user containing frog trivia that must be answered correctly to dismiss.
+3. TrivialFrog: A program that when installed, randomly gives popups to the user containing frog trivia that must be answered correctly to dismiss.
 
 ### About Me
 - I use Arch Linux and absolutely swear by the modern world needing more Linux.
