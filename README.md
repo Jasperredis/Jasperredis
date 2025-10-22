@@ -30,7 +30,7 @@ https://github.com/Jasperredis/Lifeline.py
 ### Cerbose
 Cerbose is a simple, easy-to-use Python library for tagged, feature-rich terminal output that can be logged. It also includes additional features such as cerbar, an ASCII progress bar generator, and cin, a terminal user-input tool.  
 https://jasperredis.github.io/cerbose  
-https://github.com/Jasperredis/cerbose-lib
+https://github.com/Jasperredis/cerbose
 
 Unfortunately, that's all as of right now.
 
