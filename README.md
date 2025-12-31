@@ -1,3 +1,4 @@
+![decoration](files/pryag.png)
 ![banner](files/banner.png)
 
 <p align="center">
