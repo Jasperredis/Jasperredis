@@ -17,3 +17,10 @@ I make games, libraries, and some other stuff, really just whatever I feel like 
 Almost all of my work is to be under either the GPLv3 (or other GNU licenses) or the MIT License.
 
 See [Cerbose](https://github.com/Jasperredis/cerbose), I released v2.0.0!!!!
+
+<p align="center">
+  <strong>stats, since those are nice</strong><br>
+  <img src="https://raw.githubusercontent.com/Jasperredis/Jasperredis/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Jasperredis/Jasperredis/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Jasperredis/Jasperredis/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</p>
