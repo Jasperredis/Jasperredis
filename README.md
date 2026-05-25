@@ -10,12 +10,20 @@
 it is I, jasper<br>
 https://jris.straw.page
 
-I use Python, primarily, and sometimes JavaScript but I've yet to actually publish anything in JS. I plan on learning C and Rust :3  
 My repositories are cool please look star and contribute maybe pretty please  
-I make games, libraries, and some other stuff, really just whatever I feel like making
 
+#### Project Info
+I use Python, primarily, and sometimes JavaScript but I've yet to actually publish anything in JS. I plan on learning C and Rust :3  
+I make games, libraries, and some other stuff, really just whatever I feel like making.  
+Everything I make is Linux-first. I will still account for Windows, but. yk.
+
+#### Licensing
 Almost all of my work is to be under either the GPLv3 (or other GNU licenses) or the MIT License.
 
+#### Contacting
+Contact me at jasperredisispublic@gmail.com.
+
+#### Updates
 See [Cerbose](https://github.com/Jasperredis/cerbose), I released v2.0.0!!!!
 
 <p align="center">
