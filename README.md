@@ -26,6 +26,13 @@ Contact me at jasperredisispublic@gmail.com.
 #### Updates
 See [Cerbose](https://github.com/Jasperredis/cerbose), I released v2.0.0!!!!
 
+#### Some WIP Projects
+I start and end new WIP projects all of the time, so this is **not** a concrete list.
+- **DATS 2**: A web game where you are talking to an intelligent computer and choose dialogue options.
+- **Lifeline.PYR**: A complete rewrite of Lifeline.py (which is terrible, btw) with better assets, way more features, better code, and a website that isn't broken.
+- **Glanzquiz**: A CLI quizzing program in Python.
+- A lot more :P
+
 <p align="center">
   <strong>stats, since those are nice</strong> (i doubt they work)<br> 
   <img src="https://raw.githubusercontent.com/Jasperredis/Jasperredis/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
