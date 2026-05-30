@@ -14,7 +14,7 @@ My repositories are cool please look star and contribute maybe pretty please
 
 #### Project Info
 I use Python, primarily, and sometimes JavaScript but I've yet to actually publish anything in JS. I plan on learning C and Rust :3  
-I make games, libraries, and some other stuff, really just whatever I feel like making.  
+I make games, libraries, CLI apps, and some other stuff, really just whatever I feel like making.  
 Everything I make is Linux-first. I will still account for Windows, but. yk.
 
 #### Licensing
