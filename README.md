@@ -18,6 +18,10 @@ I use Python, primarily, and sometimes JavaScript but I've yet to actually publi
 I make games, libraries, CLI apps, and some other stuff, really just whatever I feel like making.  
 Everything I make is Linux-first. I will still account for Windows, but. yk.
 
+### Projects
+- Cerbose: A cross-platform Python library that allows for fancy terminal text output and additional console-related features.
+- Lifeline.PYR: A retro-style arcade game where you try and keep your constantly decreasing life up with constricted movement. 
+
 #### Licensing
 Almost all of my work is to be under either the GPLv3 (or other GNU licenses) or the MIT License.
 
@@ -30,8 +34,8 @@ See [Cerbose](https://github.com/Jasperredis/cerbose), I released v2.0.0!!!!
 #### Some WIP Projects
 I start and end new WIP projects all of the time, so this is **not** a concrete list.
 - **DATS 2**: A web game where you are talking to an intelligent computer and choose dialogue options.
-- **Lifeline.PYR**: A complete rewrite of Lifeline.py (which is terrible, btw) with better assets, way more features, better code, and a website that isn't broken.
 - **Glanzquiz**: A CLI quizzing program in Python.
+- **urlpronouns**: A FOSS pronouns, multilingual pronouns site storing profiles in the URL.
 - A lot more :P
 
 <p align="center">
