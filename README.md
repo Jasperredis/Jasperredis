@@ -33,6 +33,7 @@ See [Cerbose](https://github.com/Jasperredis/cerbose), I released v2.0.0!!!!
 
 #### Some WIP Projects
 I start and end new WIP projects all of the time, so this is **not** a concrete list.
+- **J6AMP**: My awesome messaging protocol (it literally stands for Jasper's Awesome Messaging Protocol)
 - **DATS 2**: A web game where you are talking to an intelligent computer and choose dialogue options.
 - **Glanzquiz**: A CLI quizzing program in Python.
 - **urlpronouns**: A FOSS pronouns, multilingual pronouns site storing profiles in the URL.
