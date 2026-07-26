@@ -1,5 +1,4 @@
 ![decoration](files/pryag.png)
-![banner](files/banner.png)
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Meaningful_Projects-3-green">
@@ -7,41 +6,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Primary_Language-Python-purple">
 <img alt="Enby" src="https://pride-badges.pony.workers.dev/static/v1?label=Enby&labelColor=%23555&stripeWidth=9&stripeColors=fff42f%2Cffffff%2C9c59d1%2C292929">
 <br>
-it is I, jasper<br>
-https://jris.straw.page  
+it is I, Jasper<br>
 https://pronouns.cc/@jasperredis
 
 My repositories are cool please look star and contribute maybe pretty please  
-
-#### Project Info
-I use Python, primarily, and sometimes JavaScript but I've yet to actually publish anything in JS. I plan on learning C and Rust :3  
-I make games, libraries, CLI apps, and some other stuff, really just whatever I feel like making.  
-Everything I make is Linux-first. I will still account for Windows, but. yk.
-
-### Projects
-- Cerbose: A cross-platform Python library that allows for fancy terminal text output and additional console-related features.
-- Lifeline.PYR: A retro-style arcade game where you try and keep your constantly decreasing life up with constricted movement. 
-
-#### Licensing
-Almost all of my work is to be under either the GPLv3 (or other GNU licenses) or the MIT License.
-
-#### Contacting
-Contact me at jasperredisispublic@gmail.com.
-
-#### Updates
-See [Cerbose](https://github.com/Jasperredis/cerbose), I released v2.0.0!!!!
-
-#### Some WIP Projects
-I start and end new WIP projects all of the time, so this is **not** a concrete list.
-- **J6AMP**: My awesome messaging protocol (it literally stands for Jasper's Awesome Messaging Protocol)
-- **DATS 2**: A web game where you are talking to an intelligent computer and choose dialogue options.
-- **Glanzquiz**: A CLI quizzing program in Python.
-- **urlpronouns**: A FOSS pronouns, multilingual pronouns site storing profiles in the URL.
-- A lot more :P
-
-<p align="center">
-  <strong>stats, since those are nice</strong> (i doubt they work)<br> 
-  <img src="https://raw.githubusercontent.com/Jasperredis/Jasperredis/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/Jasperredis/Jasperredis/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/Jasperredis/Jasperredis/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
-</p>
+☞ **My website:** https://jasperredis.net
