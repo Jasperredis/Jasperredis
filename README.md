@@ -9,5 +9,8 @@
 it is I, Jasper<br>
 https://pronouns.cc/@jasperredis
 
+# I have migrated to Codeberg! See my Codeberg page [here](https://codeberg.org/jasperredis).
+I may still star repositories, browse code, or maybe even contribute here on GitHub, but all of my actual work is now to be on Codeberg.
+
 My repositories are cool please look star and contribute maybe pretty please  
 ☞ **My website:** https://jasperredis.net
