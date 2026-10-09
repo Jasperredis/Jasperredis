@@ -1,16 +1,5 @@
-![decoration](files/pryag.png)
-
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Meaningful_Projects-3-green">
-<img alt="Static Badge" src="https://img.shields.io/badge/WIP_Projects-A lot-orange">
-<img alt="Static Badge" src="https://img.shields.io/badge/Primary_Language-Python-purple">
-<img alt="Enby" src="https://pride-badges.pony.workers.dev/static/v1?label=Enby&labelColor=%23555&stripeWidth=9&stripeColors=fff42f%2Cffffff%2C9c59d1%2C292929">
-<br>
-it is I, Jasper<br>
-https://pronouns.cc/@jasperredis
-
 # I have migrated to Codeberg! See my Codeberg page [here](https://codeberg.org/jasperredis).
-I may still star repositories, browse code, or maybe even contribute here on GitHub, but all of my actual work is now to be on Codeberg.
+I have deleted the majority of my repositories here, and do not plan to do any real work on GitHub.
 
-My repositories are cool please look star and contribute maybe pretty please  
-☞ **My website:** https://jasperredis.net
+☞ **My Codeberg:** <https://codeberg.org/jasperredis>
+☞ **My website:** <https://jasperredis.net>
